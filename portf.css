@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: antiquewhite;
+    height: 100px;
+    padding: 30px;
+}
+nav ul li{
+    display: inline;
+    padding: 20px;
+}
+nav ul li a{
+    color: burlywood;
+    text-decoration: none;
+
+}
+h1{
+    color: aliceblue;
+}
+#home img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+
+            h1{
+                color: black;
+            }
+		#Home img{
+			height: 200px;
+			width: 200px;
+			border-radius: 50%; 
+		}
+        #Home{
+            background-color:  rgb(117, 7, 97);;
+        }
+		nav ul li a{
+			color:blue;
+			text-decoration: none;
+		}
+		header{
+			background-color: pink;
+			height: 100px;
+			padding: 30px;
+			color: white;
+			margin-bottom:-10px;
+		}
+		#portfolio{
+			background-color: rgb(150, 203, 210);
+			padding: 50px;
+			margin-bottom: :-5px; 
+             }
+             #Bio{
+             	margin-bottom: -10px;
+             }
+             footer{
+             	background-color: #333;
+                 height: 60px;
+             	padding: 10px;
+             	color: white;
+             }
+             body{
+             	text-align: center;
+             }
+             nav ul li{
+             	display: inline;
+             	padding: 20px;
+             }
+             section ul li{
+             	display: inline;
+             	padding:20px; 
+             	} 
+             	#Home{
+             		background-color: #D0F5EC;
+             		margin-top: -14px;
+             		padding: 20px;
+                    color: black;
+             	}
+            
+             	#Bio{
+             		background-color:#1089ae;
+             		 margin-top: -20px; 
+             		 margin-bottom: -10px;
+             	}
+             	#Portfolio ol li{
+             		display: inline;
+
+             	}
+             	          
+    
